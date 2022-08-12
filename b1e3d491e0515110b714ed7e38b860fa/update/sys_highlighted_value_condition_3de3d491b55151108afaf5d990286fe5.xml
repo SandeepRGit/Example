@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color/>
+        <conditions table="x_858172_time_of_0_request">status=requested^EQ<item display_value="Requested" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="requested"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <highlighted_value display_value="status">31e3d491e751511047abe4c3a2e7eae6</highlighted_value>
+        <icon/>
+        <order>20</order>
+        <show_icon>true</show_icon>
+        <status>high</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:46</sys_created_on>
+        <sys_id>3de3d491b55151108afaf5d990286fe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_3de3d491b55151108afaf5d990286fe5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:46</sys_updated_on>
+        <value_override/>
+        <variant/>
+    </sys_highlighted_value_condition>
+</record_update>

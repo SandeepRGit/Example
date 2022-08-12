@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>New Event Mapping</name>
+        <parent_macroponent display_value="design test">f1e3d4910b515110023ac0ca1452c1ab</parent_macroponent>
+        <source_da display_value="to_edit">3de3d491b5515110956c127866a020ea</source_da>
+        <source_element_id>data_set_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b1e3d49157515110250901a3b321e8aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Event Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_b1e3d49157515110250901a3b321e8aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:37</sys_updated_on>
+        <target_event display_value="Data Set Edit Button Clicked">39e3d491585151109ca54ba75b9c84ab</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    },
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

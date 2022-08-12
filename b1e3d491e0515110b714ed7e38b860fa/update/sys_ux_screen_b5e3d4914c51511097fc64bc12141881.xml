@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Time Off Requests workspace Config">75e3d4916a515110294b7ea838a502f9</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="List Modal Page">f1e3d491ee515110bb0f466331e36791</macroponent>
+        <macroponent_config>{
+  "table" : "@context.props.table",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "tinyId" : ""
+}</macroponent_config>
+        <name>List Modal Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="List">fde3d4914b515110789fefed712150a3</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="List Modal Page">71e3d49143515110046d286b8a7e5ea4</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5e3d4914c51511097fc64bc12141881</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List Modal Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_ux_screen_b5e3d4914c51511097fc64bc12141881</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:56</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b5e3d4914c51511097fc64bc12141881"/>
+</record_update>

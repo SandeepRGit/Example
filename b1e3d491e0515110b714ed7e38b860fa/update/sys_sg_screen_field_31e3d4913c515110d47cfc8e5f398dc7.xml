@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>status</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>400</order>
+        <record_id_field/>
+        <screen display_value="Details">3de3d4915f5151109e3436e6929677cd</screen>
+        <screen_data_item_table>x_858172_time_of_0_request</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:23</sys_created_on>
+        <sys_id>31e3d4913c515110d47cfc8e5f398dc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>status</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_sg_screen_field_31e3d4913c515110d47cfc8e5f398dc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:23</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Delete">b9e3d491b75151109d6b5e45715e25a1</macroponent>
+        <name>Return Home</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    helpers.navigate.to('landing', {
+        page: 'home'
+    }, {
+        refresh: Date.now()
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:43</sys_created_on>
+        <sys_id>f5e3d491e0515110c6e3f08b207647a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Return Home</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_ux_client_script_f5e3d491e0515110c6e3f08b207647a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:43</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

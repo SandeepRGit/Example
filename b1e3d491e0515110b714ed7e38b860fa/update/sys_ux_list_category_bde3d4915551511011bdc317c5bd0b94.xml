@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Manager">31e3d491db51511083f983acb5cf1195</configuration>
+        <description>manager list</description>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bde3d4915551511011bdc317c5bd0b94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Team requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_ux_list_category_bde3d4915551511011bdc317c5bd0b94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:17</sys_updated_on>
+        <title>Team requests</title>
+    </sys_ux_list_category>
+</record_update>

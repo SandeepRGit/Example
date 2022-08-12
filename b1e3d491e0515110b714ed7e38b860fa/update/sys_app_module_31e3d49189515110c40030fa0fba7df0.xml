@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Time Off Template">b1e3d491a15151105b2661b0ad8fb9f0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Time Off Workspace</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>true</override_menu_roles>
+        <query>/x/858172/x_858172_time_of_0/workspace/dashboard</query>
+        <report/>
+        <roles>x_858172_time_of_0.admin,x_858172_time_of_0.manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:53:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31e3d49189515110c40030fa0fba7df0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_app_module_31e3d49189515110c40030fa0fba7df0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:53:07</sys_updated_on>
+        <timeline_page/>
+        <title>Time Off Workspace</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Time off workspace</window_name>
+    </sys_app_module>
+</record_update>

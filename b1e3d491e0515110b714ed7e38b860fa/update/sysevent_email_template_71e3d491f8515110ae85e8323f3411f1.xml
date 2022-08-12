@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_858172_time_of_0_request</collection>
+        <email_layout display_value="Time Off Request">71e3d491f5515110d7a2c08e45cbaaf0</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>Default Time Off Template</name>
+        <sms_alternate/>
+        <subject/>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:53:03</sys_created_on>
+        <sys_id>71e3d491f8515110ae85e8323f3411f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default Time Off Template</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sysevent_email_template_71e3d491f8515110ae85e8323f3411f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:53:03</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

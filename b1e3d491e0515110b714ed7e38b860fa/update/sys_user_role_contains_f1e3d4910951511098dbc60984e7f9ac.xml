@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="x_858172_time_of_0.manager" name="x_858172_time_of_0.manager">f1e3d491ce51511044c3ebb0219a56f9</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:37</sys_created_on>
+        <sys_id>f1e3d4910951511098dbc60984e7f9ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_user_role_contains_f1e3d4910951511098dbc60984e7f9ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:37</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

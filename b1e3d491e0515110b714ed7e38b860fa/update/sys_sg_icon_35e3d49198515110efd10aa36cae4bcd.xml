@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2b9","Name":"icon-Address-Book","FontColor":"#293E40","BackgroundColor":"#293E40"}</icon>
+        <name>icon-Address-Book</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:47</sys_created_on>
+        <sys_id>35e3d49198515110efd10aa36cae4bcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Address-Book</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_sg_icon_35e3d49198515110efd10aa36cae4bcd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:47</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

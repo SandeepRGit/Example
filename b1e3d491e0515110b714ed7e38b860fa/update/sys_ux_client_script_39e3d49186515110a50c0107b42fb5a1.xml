@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="404">7de3d49157515110750519917991d3a1</macroponent>
+        <name>Set Title</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    helpers.screen.updateStatus({title: 'Not found'});
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:20</sys_created_on>
+        <sys_id>39e3d49186515110a50c0107b42fb5a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Title</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_ux_client_script_39e3d49186515110a50c0107b42fb5a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:20</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

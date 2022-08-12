@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Time Off request">f5e3d491275151102901f5881d48ccef</category>
+        <columns>number,sys_created_on,requested_by,requested_by.department,requested_by.manager,date_submitted,status,active,times_submitted,start_date,end_date,time_off_reason,rejection_reason,comments,work_notes</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f1e3d4910a5151104d32ac44cb4700ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_aw_list_f1e3d4910a5151104d32ac44cb4700ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:32</sys_updated_on>
+        <table>x_858172_time_of_0_request</table>
+        <title>All</title>
+        <user/>
+        <workspace display_value="Time Off Request WS">35e3d4916b51511070b6747196a035ef</workspace>
+    </sys_aw_list>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">f1e3d4912d515110027b183cbc29b6cd</icon>
+        <name>Requests This Year</name>
+        <report display_value="Time Off Requests">f1e3d491905151102fa7d849a396dad8</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:53:05</sys_created_on>
+        <sys_id>7de3d491705151101f6d23e78b9b17ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requests This Year</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_7de3d491705151101f6d23e78b9b17ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:53:05</sys_updated_on>
+        <tool_tip>true</tool_tip>
+        <type>report</type>
+        <use_last_point>false</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=7de3d491705151101f6d23e78b9b17ce"/>
+</record_update>

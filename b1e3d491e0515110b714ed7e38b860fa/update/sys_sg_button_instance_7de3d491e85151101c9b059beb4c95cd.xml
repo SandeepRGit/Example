@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit">f5e3d491395151109b8dd1ef4ccd46d1</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>footer</location>
+        <name>Edit</name>
+        <order>10</order>
+        <parent>bde3d491385151103aa4ad257e7f86cd</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:55</sys_created_on>
+        <sys_id>7de3d491e85151101c9b059beb4c95cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_sg_button_instance_7de3d491e85151101c9b059beb4c95cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:55</sys_updated_on>
+        <table>x_858172_time_of_0_request</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=7de3d491e85151101c9b059beb4c95cd"/>
+</record_update>

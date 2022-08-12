@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests portal Config">35e3d491a251511020ec326d58e41ef9</app_config>
+        <description/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Cancel</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>cancel</route_type>
+        <screen_type display_value="Cancel">b1e3d4918a5151101fbe9764fa5c77a6</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:10</sys_created_on>
+        <sys_id>fde3d49138515110b0f31256e2666da5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_ux_app_route_fde3d49138515110b0f31256e2666da5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:10</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=fde3d49138515110b0f31256e2666da5"/>
+</record_update>

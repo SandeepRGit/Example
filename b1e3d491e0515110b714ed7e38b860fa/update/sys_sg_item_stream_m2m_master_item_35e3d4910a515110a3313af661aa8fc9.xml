@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Recent Requests Item Stream">b1e3d49103515110898c70e02c2f48ca</item_stream>
+        <master_item display_value="Recent Requests Main Item">f9e3d491f7515110af08ddacf2a4bec9</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:53:04</sys_created_on>
+        <sys_id>35e3d4910a515110a3313af661aa8fc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_35e3d4910a515110a3313af661aa8fc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:53:04</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

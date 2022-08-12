@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>SESSION_REFRESH_RELAY_bde3d491825151105c63b356c22d439f</event_name>
+        <interfaces/>
+        <label>Canvas User Session Data Resource Transform REFRESH Relay (Draft default (layout tweak))</label>
+        <props>[]</props>
+        <required_translations>[]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:52:11</sys_created_on>
+        <sys_id>3de3d491e65151105222e5142efbc798</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Canvas User Session Data Resource Transform REFRESH Relay (Draft default (layout tweak))</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_ux_event_3de3d491e65151105222e5142efbc798</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:52:11</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=3de3d491e65151105222e5142efbc798"/>
+</record_update>

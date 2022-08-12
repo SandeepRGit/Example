@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_858172_time_of_0_request</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Time Off Requests">79e3d491005151102a48eda0d9a8a9cc</embedded_screen>
+        <item_view/>
+        <name>Time Off Requests Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-12 17:53:07</sys_created_on>
+        <sys_id>f5e3d491cf51511073c4af7cf0e3c1c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Requests Main Item</sys_name>
+        <sys_package display_value="Time Off Template" source="x_858172_time_of_0">b1e3d491e0515110b714ed7e38b860fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Template">b1e3d491e0515110b714ed7e38b860fa</sys_scope>
+        <sys_update_name>sys_sg_master_item_f5e3d491cf51511073c4af7cf0e3c1c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-12 17:53:07</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Time Off View Config (Admin)">b9e3d49153515110a43734e5bd57d1cc</view_config>
+    </sys_sg_master_item>
+</record_update>
